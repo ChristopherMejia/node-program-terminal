@@ -1,0 +1,1 @@
+# Esta carpeta contiene el archivo .json simulando una bdd.
