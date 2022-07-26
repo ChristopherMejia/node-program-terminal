@@ -5,7 +5,7 @@ Programa donde puedes crear, eliminar, realizar un checklist de las actividades 
 
 ## Features
 
-- Dentro de la carpeta dataFiles se genera un archivo json para simular una bdd y pueda tener persistencia los datos creados. 
+- Dentro de la carpeta dataFiles se genera un archivo json para simular una bdd y pueda tener percistencia los datos creados. 
 
 ## Tech
 
